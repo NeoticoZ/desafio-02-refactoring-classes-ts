@@ -2,13 +2,9 @@
 
 Desafio desenvolvido pelo curso da Rocketseat.
 
-
-
 ## 💻 Sobre o desafio
 
-Para este desafio, me foi entregue uma aplicação já funcional onde o principal objetivo seria realizar dois processos de migração: de **Javascript** para **Typescript** e de **Class Components **para **Function Components**.
-
-
+Para este desafio, me foi entregue uma aplicação já funcional onde o principal objetivo seria realizar dois processos de migração: de **Javascript** para **Typescript** e de **Class Components** para **Function Components**.
 
 ## Componentes refatorados :ballot_box_with_check:
 
